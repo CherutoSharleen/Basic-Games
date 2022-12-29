@@ -12,5 +12,3 @@ Challenges experienced
 - ihihi
 Hhhh
 - hhhh
-- bbbb
-- okkk

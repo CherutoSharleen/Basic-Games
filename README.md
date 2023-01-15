@@ -4,14 +4,4 @@ The Ball Game is a game that enables controlling the ball against obstacles
 
 Challenges experienced
 - The Game manager claimed that the obstacles hadnot been set as well as the collision detection did not work.
-- heyyy
-- Another commit
-- Another one
-- tooo
-- hey
-- ihihi
-Hhhh
-- hhhh
-- hhhh
-- yaaa
-- heyyy 
+ 
